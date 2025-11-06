@@ -16,10 +16,10 @@ Perfect for learning Laravel APIs, testing with Postman, or using as a backend f
 
 ## 🛠 Tech Stack
 
-- Laravel 10+
+- Laravel 12+
 - Laravel Sanctum
 - MySQL / SQLite
-- PHP 8.1+
+- PHP 8.2+
 
 ## 🚀 Quick Start
 
