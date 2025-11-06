@@ -1,7 +1,7 @@
 
 # Blog API 🚀
 
-A simple, secure, and fully functional **RESTful Blog API** built with **Laravel 10+** and **Sanctum** for token-based authentication.
+A simple, secure, and fully functional **RESTful Blog API** built with **Laravel 12+** and **Sanctum** for token-based authentication.
 
 Perfect for learning Laravel APIs, testing with Postman, or using as a backend for Vue/React/Flutter apps.
 
